@@ -1,3 +1,3 @@
-TOKEN = '6842859283:AAEUf4pG4-OYaV_id0KZt-bXbmFNt40uCl4'
+TOKEN = 'token'
 
-DB_NAME = 'register_bot'
+DB_NAME = 'registration.db'
